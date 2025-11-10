@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Arthur Ribeiro
 
-<!--
-**arthurbdribeiro/arthurbdribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bacharel em Engenharia Elétrica** e **Tecnólogo em Banco de Dados**  
+💾 Tenho experiência em **Modelagem de Banco de Dados** e **Linguagem SQL**, com foco em **Oracle SQL**  
+📊 Atualmente estudando **Python para Análise de Dados** e **Desenvolvimento Back-end em JavaScript e PHP**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+💡 SQL | Oracle | Python | JavaScript | PHP | Git | GitHub | Power BI
+
+---
+
+### 📚 Em aprendizado
+- Python (Análise de Dados, Pandas, NumPy)
+- JavaScript (Back-end)
+- PHP (Back-end)
+- Boas práticas de versionamento e automação
+
+---
+
+### 📈 Estatísticas do GitHub
+![Arthur Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRibeiro&show_icons=true&theme=dracula)
+
+---
+
+### 🌐 Onde me encontrar
+[![LinkedIn](www.linkedin.com/in/arthur-bueno-ribeiro)
