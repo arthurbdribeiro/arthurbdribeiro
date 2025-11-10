@@ -20,9 +20,4 @@
 ---
 
 ### 📈 Estatísticas do GitHub
-![Arthur Ribeiro's GitHub stats](https://www.linkedin.com/in/arthur-bueno-ribeiro/)
-
----
-
-### 🌐 Onde me encontrar
-[![LinkedIn](www.linkedin.com/in/arthur-bueno-ribeiro)
+![Arthur Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRibeiro&show_icons=true&theme=dracula)
