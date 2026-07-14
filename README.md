@@ -1,8 +1,11 @@
 # 👋 Olá! Eu sou Arthur Ribeiro
 
 🎓 **Bacharel em Engenharia Elétrica** e **Tecnólogo em Banco de Dados**
+
 🎓 Cursando Tecnologia em Redes de Computadores
+
 💾 Tenho experiência em **Modelagem de Banco de Dados** e **Linguagem SQL**, com foco em **Oracle SQL e SQL Server**  
+
 📊 Atualmente estudando **Python para Análise de Dados e Processamento Digital de Sinais**
 
 ---
