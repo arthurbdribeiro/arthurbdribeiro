@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou Arthur Ribeiro
 
-🎓 **Bacharel em Engenharia Elétrica** e **Tecnólogo em Banco de Dados**;
-🎓 Cursando Tecnologia em Redes de Computadores
-💾 Tenho experiência em **Modelagem de Banco de Dados** e **Linguagem SQL**, com foco em **Oracle SQL e SQL Server**  
+🎓 **Bacharel em Engenharia Elétrica** e **Tecnólogo em Banco de Dados**;<br>
+🎓 Cursando Tecnologia em Redes de Computadores<br>
+💾 Tenho experiência em **Modelagem de Banco de Dados** e **Linguagem SQL**, com foco em **Oracle SQL e SQL Server**<br>
 📊 Atualmente estudando **Python para Análise de Dados e Processamento Digital de Sinais**
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-💡 SQL | Oracle | Python | PHP | Git | GitHub |
+💡 SQL | Oracle | Python | PHP | Git | GitHub
 
 ---
 
@@ -18,6 +18,3 @@
 - Boas práticas de versionamento e automação
 
 ---
-
-### 📈 Estatísticas do GitHub
-![Arthur Ribeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRibeiro&show_icons=true&theme=dracula)
